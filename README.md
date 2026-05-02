@@ -1,6 +1,6 @@
 # PancreaTrack
 
-PancreaTrack is a Streamlit dashboard for educational early-risk exploration in pancreatic cancer. It combines urinary biomarker data from the Kaggle "Urinary biomarkers for pancreatic cancer" dataset with patient-entered symptom and metabolic context to show interpretable warning signals, simulated longitudinal trends, and comparative model performance.
+PancreaTrack is a CompBio @ Berkeley Bootcamp project built as a Streamlit dashboard for educational early-risk exploration in pancreatic cancer. It combines urinary biomarker data from the Kaggle "Urinary biomarkers for pancreatic cancer" dataset with patient-entered symptom and metabolic context to show interpretable warning signals, simulated longitudinal trends, and comparative model performance.
 
 ## Dataset
 
